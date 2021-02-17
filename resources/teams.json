@@ -1,0 +1,37 @@
+[
+    {
+        "name": "HC Ambrì-Piotta",
+        "city": "Ambri",
+        "arena": "Valascia",
+        "capacity": 6500,
+        "founded": 1937
+    },
+    {
+        "name": "SC Bern",
+        "city": "Bern",
+        "arena": "PostFinance Arena",
+        "capacity": 17031,
+        "founded": 1931
+    },
+    {
+        "name": "HC Davos",
+        "city": "Davos",    
+        "arena": "Vaillant Arena",
+        "capacity": 6800,
+        "founded": 1921
+    },
+    {
+        "name": "Fribourg-Gottéron",
+        "city": "Fribourg",    
+        "arena": "BCF Arena",
+        "capacity": 8934,
+        "founded": 1938
+    },
+    {
+        "name": "ZSC Lion",
+        "city": "Zürich",    
+        "arena": "Hallenstadion",
+        "capacity": 11200,
+        "founded": 1930
+    }      
+]
